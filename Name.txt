@@ -1,1 +1,2 @@
-My name is Maaza Belete, it's my second commit.
+My name is Maaza Belete, it's my second commit. 
+this is my third commit. 
